@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>right half hear.png</file>
+        <file>fullheart.png</file>
+        <file>left empty heart.png</file>
+        <file>first_page.jpg</file>
+        <file>second page.jpg</file>
+    </qresource>
+</RCC>
